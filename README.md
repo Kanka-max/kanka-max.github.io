@@ -1,2 +1,6 @@
-# kanka-max.github.io
-I am a Data Scientist and Conversational AI Designer.  My passion is building conversational AI assistants, conversation design and curating NLU data for intent classification and named-entity recognition.I also build NLP applications using BERT Transformer Architecture and NVIDIA NeMo open source. Besides, I love to share my knowledge on deep learning and conversational AI through content, speaking engagements, developer communities and networking on Twitter and LinkedIn.   📝 Medium: Jacques Patricks 🤖 Rasa Contributor and Community Member. 💬👥 Twitter, LinkedIn @JacquesPatricks
+# Jacques Patricks K.
+I am a knowledgeable and results-focused data analyst with 2+ years of experience developing database procedures for enterprise environment. Organized huge datasets effectively via advanced querying, visualization, and analytic tools. Besides, I love to share my knowledge on deep learning and conversational AI through content, speaking engagements, developer communities and networking on Twitter and LinkedIn.  
+
+- 📝 Medium: Jacques Patricks 
+- 🤖 Rasa Contributor and Community Member. 
+- 💬👥 Twitter, LinkedIn @JacquesPatricks
